@@ -1,9 +1,9 @@
-# Generative AI Applications — Report
+# Report
 
 ## Intro
 I picked a few simple GenAI use cases that people actually use every day: translation, summarizing long texts, and generating images for social media. Nothing too technical. Just how these tools help and where they still fail sometimes.
 
---
+---
 
 ## 1. AI Translation Tools (DeepL, Google, etc.)
 
